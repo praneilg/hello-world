@@ -1,5 +1,4 @@
-# pra_project
-Just another repositry
+# Praneilhere
+I am Beginner 
 
 
-Hi bros!!
